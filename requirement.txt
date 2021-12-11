@@ -1,0 +1,6 @@
+PyJWT
+mysql
+mysql-connector-python
+Flask
+python 3.10.0
+flask_swagger_ui
